@@ -1,0 +1,2 @@
+# mybot
+arbitrage bot
