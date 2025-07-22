@@ -28,8 +28,8 @@ except ImportError:
 
 
 # --- УПРАВЛЕНИЕ API-КЛЮЧАМИ ---
-API_KEY = "7QDQrlViBW5rugiRjJC9UqGbwwQGWmMlxHGZOhWciWLVZvWiDuRZLP6kI1EOAsnr"
-API_SECRET = "a1Pe212ErRkYlVB8ATlsvibNzOTbBdNpnfAebmjeh8yh43DIdv5VLh1jz9TO9cly"
+API_KEY = ""
+API_SECRET = ""
 
 
 class Config:
